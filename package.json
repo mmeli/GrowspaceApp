@@ -46,6 +46,7 @@
     "core-js": "^2.5.4",
     "gradle": "^1.0.9",
     "hazems-cordova-plugin-sms": "0.0.2",
+    "ionic-native": "^2.9.0",
     "rxjs": "~6.3.3",
     "zone.js": "~0.8.29"
   },
